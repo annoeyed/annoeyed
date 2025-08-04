@@ -1,8 +1,3 @@
-<!-- 🎨 Optional: Top banner image -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nayeon%20Kim%20|%20annoeyed&fontSize=40&fontAlign=70&fontAlignY=35&desc=AI%20Security%20%26%20Multi-Agent%20Systems%20Researcher&descAlign=70&descAlignY=55" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Nayeon Kim</h1>
 <h3 align="center">Graduate Student researching AI Security & Multi-Agent Systems (MAS)</h3>
 
@@ -18,44 +13,43 @@
 - 🤝 I’m looking for help with **Secure RAG + CVE Threat Intelligence**
 - 👨‍💻 All of my projects are available at [https://github.com/annoeyed](https://github.com/annoeyed)
 - 💬 Ask me about **multi-agent systems, secure prompt engineering, LLM-based security**
-- 📫 How to reach me: **nykim727@gmail.com**
-- 💬 Discord: **an.noeyed**
-- 📄 Know about my experiences: [LinkedIn Profile](https://www.linkedin.com/in/annoeyed/)
-- ⚡ Fun fact: **I test my agents harder than any red-teamer would. Also: 🥔+🛋️ = me**
+- 📫 Email: [nykim727@gmail.com](mailto:nykim727@gmail.com)
+- 🔗 LinkedIn: [@annoeyed](https://linkedin.com/in/annoeyed)
+- 💬 Discord: **an.noeyed** (DMs open!)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+⚡ **Fun fact**  
+I test my agents harder than any red-teamer would.  
+Also: 🥔 + 🛋️ = me
+
+---
+
+## 🔧 Languages and Tools
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/annoeyed/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <!-- Discord: Just a visual badge without link -->
-  <a href="https://discord.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-  </a>
+  <!-- 핵심 스택 먼저 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" title="Bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" title="Flask"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="40" title="LangChain"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" title="Redis"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" title="Grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" title="Prometheus"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" title="Scikit-Learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-icon.svg" width="40" title="Postman"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- 대표 기술 스택 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" />
-</p>
+## 📊 GitHub Stats
 
----
-
-<h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=annoeyed&show_icons=true&theme=tokyonight" />
 </p>
@@ -68,7 +62,8 @@
 
 ---
 
-<h3 align="left">🏆 GitHub Trophies</h3>
+## 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=annoeyed&theme=tokyonight&column=6" />
 </p>
