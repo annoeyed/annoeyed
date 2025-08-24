@@ -7,9 +7,10 @@
 
 ---
 
-- 🔭 I’m currently working on [CGRAG: CyberGuard RAG](https://github.com/annoeyed/CGRAG)
+- 🔭 I’m currently working on [AI_Algorithm_Bias](https://github.com/annoeyed/AI_Algorithm_Bias)
+
 - 🌱 I’m currently learning **LangChain, Qdrant, Supabase, OpenFGA, RL-based security**
-- 👯 I’m looking to collaborate on [Secure Multi-Agent Simulation](https://github.com/annoeyed/ma_blr)
+- 👯 I’m looking to collaborate on [A security-enhanced AI agent system based on the Model Context Protocol (MCP)](https://github.com/annoeyed/MAM))
 - 🤝 I’m looking for help with **Secure RAG + CVE Threat Intelligence**
 - 👨‍💻 All of my projects are available at [https://github.com/annoeyed](https://github.com/annoeyed)
 - 💬 Ask me about **multi-agent systems, secure prompt engineering, LLM-based security**
