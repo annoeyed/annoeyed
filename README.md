@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Nayeon Kim</h1>
 <h3 align="center">Graduate Student researching AI Security & Multi-Agent Systems (MAS)</h3>
 
+<p align="center">
+  🇰🇷 보안과 멀티에이전트 시스템(MAS), 자율주행 시스템 보안을 연구하는 김나연입니다.
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=annoeyed&label=Profile%20views&color=0e75b6&style=flat" alt="annoeyed" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on [AI_Algorithm_Bias](https://github.com/annoeyed/AI_Algorithm_Bias)
-
-- 🌱 ’m currently learning **secure Multi-Agent Systems (MCP), RAG pipelines for cybersecurity, privacy-preserving ML, and RL-driven security evaluation**
-- 👯 I’m looking to collaborate on [A security-enhanced AI agent system based on the Model Context Protocol (MCP)](https://github.com/annoeyed/MAM)
-- 🤝 I’m looking for help with **Secure RAG + CVE Threat Intelligence**
-- 👨‍💻 All of my projects are available at [https://github.com/annoeyed](https://github.com/annoeyed)
-- 💬 Ask me about **multi-agent systems, secure prompt engineering, LLM-based security**
+- 🔭 I’m currently working on [AUTOISMS](https://github.com/2026-autoever-secure-3/autoisms).
+- 🌱 I’m learning **IT security**, focusing on security for autonomous driving robots and software/code security in autonomous vehicles.
+- 👯 I’m looking to collaborate on **security for autonomous robots and autonomous driving software**, including threat modeling and secure coding for these systems.
+- 🤝 I’d love to connect with experts in **hardware security**, especially around securing autonomous systems.
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/annoeyed).
+- 🌐 Live projects & demos (Vercel): *준비 중 / WIP*.
+- 💬 Ask me about **multi-agent systems, secure prompt engineering, LLM-based security**.
 - 📫 Email: [nykim727@gmail.com](mailto:nykim727@gmail.com)
 - 🔗 LinkedIn: [@annoeyed](https://linkedin.com/in/annoeyed)
 - 💬 Discord: **an.noeyed** (DMs open!)
