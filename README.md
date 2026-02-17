@@ -16,11 +16,17 @@
 - 👯 I’m looking to collaborate on **security for autonomous robots and autonomous driving software**, including threat modeling and secure coding for these systems.
 - 🤝 I’d love to connect with experts in **hardware security**, especially around securing autonomous systems.
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/annoeyed).
-- 🌐 Live projects & demos (Vercel): *준비 중 / WIP*.
+- 🌐 Live profile site (Vercel): [`nayeonprofile.vercel.app`](https://nayeonprofile.vercel.app/)
 - 💬 Ask me about **multi-agent systems, secure prompt engineering, LLM-based security**.
 - 📫 Email: [nykim727@gmail.com](mailto:nykim727@gmail.com)
 - 🔗 LinkedIn: [@annoeyed](https://linkedin.com/in/annoeyed)
 - 💬 Discord: **an.noeyed** (DMs open!)
+
+<p align="center">
+  <a href="https://nayeonprofile.vercel.app/">
+    <img src="https://img.shields.io/badge/website-nayeonprofile.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="nayeonprofile.vercel.app" />
+  </a>
+</p>
 
 ---
 
