@@ -1,32 +1,34 @@
-<h1 align="center">Hi 👋, I'm Nayeon Kim</h1>
-<h3 align="center">Graduate Student researching AI Security & Multi-Agent Systems (MAS)</h3>
+<h1 align="center">Nayeon Kim</h1>
 
 <p align="center">
-  🇰🇷 보안과 멀티에이전트 시스템(MAS), 자율주행 시스템 보안을 연구하는 김나연입니다.
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=annoeyed&label=Profile%20views&color=0e75b6&style=flat" alt="annoeyed" />
+AI Security · Multi-Agent Systems · Cloud Security (AWS)
 </p>
 
 ---
 
-- 🔭 I’m currently working on [AUTOISMS](https://github.com/2026-autoever-secure-3/autoisms).
-- 🌱 I’m learning **IT security**, focusing on security for autonomous driving robots and software/code security in autonomous vehicles.
-- 👯 I’m looking to collaborate on **security for autonomous robots and autonomous driving software**, including threat modeling and secure coding for these systems.
-- 🤝 I’d love to connect with experts in **hardware security**, especially around securing autonomous systems.
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/annoeyed).
-- 🌐 Live profile site (Vercel): [`nayeonprofile.vercel.app`](https://nayeonprofile.vercel.app/)
-- 💬 Ask me about **multi-agent systems, secure prompt engineering, LLM-based security**.
-- 📫 Email: [nykim727@gmail.com](mailto:nykim727@gmail.com)
-- 🔗 LinkedIn: [@annoeyed](https://linkedin.com/in/annoeyed)
-- 💬 Discord: **an.noeyed** (DMs open!)
+I work on **AI security and multi-agent systems**, with a strong focus on
+building **secure, cloud-based architectures on AWS**.
 
-<p align="center">
-  <a href="https://nayeonprofile.vercel.app/">
-    <img src="https://img.shields.io/badge/website-nayeonprofile.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="nayeonprofile.vercel.app" />
-  </a>
-</p>
+My current interests include:
+
+* Designing **agent-based security systems**
+* LLM security and secure prompt engineering
+* Cloud security architecture and detection engineering
+* Bridging **deterministic security logic** with **autonomous agent workflows**
+
+---
+
+### Work
+
+* Cloud Security Engineer focused on AWS security architecture, detection engineering, and security automation
+* Building security-focused multi-agent systems
+
+---
+
+### Projects
+
+* AUTOISMS – Security automation with multi-agent architecture
+* Security reasoning system using LLM + rule engine for automated compliance analysis
 
 ---
 
@@ -36,7 +38,7 @@ Also: 🥔 + 🛋️ = me
 
 ---
 
-## 🔧 Languages and Tools
+### Tech
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
@@ -52,3 +54,11 @@ Also: 🥔 + 🛋️ = me
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
 </p>
+
+---
+
+### Contact
+
+* Email: [nykim727@gmail.com](mailto:nykim727@gmail.com)
+* GitHub: https://github.com/annoeyed
+* LinkedIn: https://linkedin.com/in/annoeyed
